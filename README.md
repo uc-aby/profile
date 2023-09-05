@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaygupta12&label=Profile%20views&color=0e75b6&style=flat" alt="abhaygupta12" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaygupta12&theme=juicyfresh" alt="abhaygupta12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uc-aby&theme=juicyfresh" alt="uc-aby" /></a> </p>
 
 
 - 📫 How to reach me **abhaygupta88599@gmail.com.**
