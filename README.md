@@ -3,7 +3,7 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Abhay Gupta</h1>
 <h3 align="center">A passionate Programmer & Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaygupta12&label=Profile%20views&color=0e75b6&style=flat" alt="abhaygupta12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uc-aby&label=Profile%20views&color=0e75b6&style=flat" alt="uc-aby" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uc-aby&theme=juicyfresh" alt="uc-aby" /></a> </p>
