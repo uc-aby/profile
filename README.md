@@ -9,11 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uc-aby&theme=juicyfresh" alt="uc-aby" /></a> </p>
 
 
-- 📫 How to reach me **abhaygupta88599@gmail.com.**
+- 📫 How to reach me **abhay.gupta@ucertify.com.**
 
-- My primary coding language: **C programming.**
-
-- Earned 4 star at HackerRank in Problem Solving...
 
 - Passionate for learning & exploring new Tech.
 
